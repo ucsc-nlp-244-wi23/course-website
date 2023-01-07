@@ -1,9 +1,11 @@
 ---
-name: Brendan King (he/him)
+name: Brendan King
 role: Teaching Assistant
 email: bking2@ucsc.edu
-website: https://kingb12.github.io
 photo: brendan.png
+pronouns: he/him
+section: "Wednesdays 3:20-455pm"
+office-hours: TBD
 ---
 
 Second year PhD student in NLP, working with Prof. Jeffrey Flanigan!

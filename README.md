@@ -10,8 +10,6 @@ seo:
 
 # NLP 244: Advanced Machine Learning for NLP
 
-## Hello World!
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+### Hello!
+
+This site is still being developed. 
